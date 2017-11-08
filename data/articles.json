@@ -3,7 +3,7 @@
     "title": "Reading csv file using javascript",
     "url": "http://www.amazon.com/Door-Religious-Knives/dp/B001FGW0UQ/?tag=quirkey-20",
     "excerpt":"CSV or comma-separated-values is one of most popular file format used to store tabular data, such as a database or spreadsheet. Using new HTML5 FileReader API you can read a csv on fly, no server side interaction is required",
-    "cover":"https://coderexample.com/wp-content/uploads/2016/08/Reading-csv-file-using-javascript.png"
+    "cover":"data/Reading-csv-file-using-javascript.png"
   },
   {
     "title": "Animated Indian flag in pure Css, No Image, No Js.",
