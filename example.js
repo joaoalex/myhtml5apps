@@ -2,10 +2,10 @@ $(document).ready(function () {
   $('#get-data').click(function () {
     var showData = $('#show-data');
 
-    $.getJSON('example.json', function (data) {
+    $.getJSON('https://meup-4fb9b.firebaseio.com/items.json', function (data) {
       console.log(data);
 
-      var items = data.items.map(function (item) {
+      var items = data.map(function (item) {
         return item.key + ': ' + item.value;
       });
 
